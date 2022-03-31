@@ -1,0 +1,33 @@
+.banner {
+	background-color: #FFFFFF;
+}
+
+.banner h1{
+	color: #000000;
+	font-size: 70px;
+	font-family: 'Lora', serif;
+	text-align: center;
+}
+
+.banner h3{
+	color: #000000;
+	font-size: 15px;
+	font-family: 'Lora', serif;
+	text-align: center;
+
+}
+
+.banner2{
+	background-color: #ddbea9;
+}
+
+.banner3{
+	background-color: #9c6644;
+	text-align: center;
+}
+
+.fa-brands{
+	font-size: 60px;
+	color: white;
+	text-align: center;
+}
